@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/yousif-wali-a784a61b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yousif-wali-a784a61b8" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/en/profile/22828032">
-  <img align="center" src="https://images.app.goo.gl/xdXXh31zszdCxXBDA"/>
+  <img align="center" src="[https://images.app.goo.gl/xdXXh31zszdCxXBDA](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sololearn.com%2F&psig=AOvVaw2kQVqYaKB6hMZUKysyvKMO&ust=1705348208860000&source=images&cd=vfe&ved=0CBMQjRxqFwoTCMit_tLT3YMDFQAAAAAdAAAAABAE)"/>
 </a>
 </p>
 
