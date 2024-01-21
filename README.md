@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en" alt="yousif-wali" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yousif-wali&" alt="yousif-wali" /></p>
+<p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yousif-wali&theme=highcontrast&hide_border=true&stroke=EBAE3B&background=45%2CD08EEB%2C2B0000" alt="yousif-wali" /></p>
