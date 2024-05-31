@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **ReactJs, Javascript**
 
-- 📫 How to reach me **wali.yousiff@gmail.com**
+- 📫 How to reach me **me@yousifwali.tech**
 - 🔥 Top 4 @USA leaderboard on Sololearn platform
 
 - ☄️ Top 60 @GLOBAL leaderboard on Sololearn platform
