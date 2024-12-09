@@ -29,6 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousif-wali&show_icons=true&locale=en&layout=pie" alt="yousif-wali"/></p>
 
+<p><img src="![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)"/></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en" alt="yousif-wali" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yousif-wali&theme=highcontrast&hide_border=true&stroke=EBAE3B&background=45%2CD08EEB%2C2B0000" alt="yousif-wali" /></p>
