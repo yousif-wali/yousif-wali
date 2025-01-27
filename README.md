@@ -1,5 +1,5 @@
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript" alt="pinnedRepo" height="150"/></a>
-<a href="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai" alt="pinnedRepo" height="150"/></a>
+<a href="https://github.com/yousif-wali/video-trasncript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript" alt="pinnedRepo" height="150"/></a>
+<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai" alt="pinnedRepo" height="150"/></a>
 
 <h1 align="center">Hi 👋, I'm Yousif Wali</h1>
 <h3 align="center">A passionate [FullStack | A.I | Blockchain | Mobile] Developer</h3>
