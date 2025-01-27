@@ -1,3 +1,6 @@
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript" alt="pinnedRepo" height="150"/></a>
+<a href="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai" alt="pinnedRepo" height="150"/></a>
+
 <h1 align="center">Hi 👋, I'm Yousif Wali</h1>
 <h3 align="center">A passionate [FullStack | A.I | Blockchain | Mobile] Developer</h3>
 
@@ -40,10 +43,10 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-wali&layout=donut&langs_count=50&size_weight=0.5&count_weight=0.5&hide=typescript,jupyter-notebook,html,handlebars,css,scss&exclude_repo=pythontest" alt="yousif-wali"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-wali&layout=donut&langs_count=50&size_weight=0.5&count_weight=0.5&hide=typescript,jupyter-notebook,html,handlebars,css,scss&exclude_repo=pythontest&custom_title=My%20Weapons" alt="yousif-wali"/></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=yousif-wali&theme=onedark&column=3" alt="yousif-wali"/></p>
      
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en" alt="yousif-wali" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en&theme=radical" alt="yousif-wali" /></p>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yousif-wali&theme=highcontrast&hide_border=true&stroke=EBAE3B&background=45%2CD08EEB%2C2B0000" alt="yousif-wali" /></p>
