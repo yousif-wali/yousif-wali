@@ -40,7 +40,7 @@
   
   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-wali&layout=donut&langs_count=50&size_weight=0.5&count_weight=0.5&hide=jupyter-notebook,html,handlebars" alt="yousif-wali"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousif-wali&layout=donut&langs_count=50&size_weight=0.5&count_weight=0.5&hide=jupyter-notebook,html,handlebars,css,scss" alt="yousif-wali"/></p>
 
 <p><img src="https://github-profile-trophy.vercel.app/?username=yousif-wali&theme=onedark&column=3" alt="yousif-wali"/></p>
      
