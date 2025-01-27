@@ -42,7 +42,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousif-wali&show_icons=true&locale=en&layout=pie" alt="yousif-wali"/></p>
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=yousif-wali&theme=onedark" alt="yousif-wali"/></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=yousif-wali&theme=onedark&column=3" alt="yousif-wali"/></p>
      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en" alt="yousif-wali" /></p>
 
