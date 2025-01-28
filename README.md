@@ -2,7 +2,7 @@
 <a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai" alt="pinnedRepo" height="150"/></a>
 
 <h1 align="center">Hi 👋, I'm Yousif Wali</h1>
-<h3 align="center">A passionate [FullStack | A.I | Blockchain | Mobile] Developer</h3>
+<h3 align="center">A passionate [FullStack | A.I | Blockchain | Mobile | Robotics] Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousif-wali&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-wali" /> </p>
 
