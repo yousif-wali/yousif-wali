@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousif-wali&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-wali" /> </p>
 
-- 🔭 I’m currently working on [Daim Shop](https://play.google.com/store/apps/details?id=com.bastory.daimshop&pcampaignid=web_share)
+- 🔭 I’m currently working on [Kurdi Academy](https://kurdiacademy.com)
 
 - 🌱 I’m currently learning **Deep Learning, Web3js Intergrated with AI**
 
 - ✅ Founder of ASMC (Admin System Management Center): <a href="https://asmc.yousifwali.tech">https://asmc.yousifwali.tech</a>
 
-- 💬 Ask me about **ReactJs, Javascript**
+- 💬 Ask me about **ReactJs, Javascript, Golang, Python**
 
 - 📫 How to reach me **me@yousifwali.tech**
 - 🔥 Top 4 @USA leaderboard on Sololearn platform
