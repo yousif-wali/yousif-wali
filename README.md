@@ -55,4 +55,4 @@
 
 ![Snake animation](https://github.com/yousif-wali/yousif-wali/blob/output/github-contribution-grid-snake.svg)
 
-![3d model](https://github.com/yousif-wali/yousif-wali/profile-3d-contrib/profile-night-rainbow.svg)
+![3d model](./profile-3d-contrib/profile-night-rainbow.svg)
