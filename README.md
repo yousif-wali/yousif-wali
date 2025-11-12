@@ -1,13 +1,14 @@
-<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
-<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
+<section style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px;">
+<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 100%;"/></a>
+<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 100%;"/></a>
+<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 100%;"/></a>
+
+<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 100%;"/></a>
+</section>
 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
 
-
-<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
-
-<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=435&lines=Hey+there!+I'm+Yousif+Wali+👋;Full-Stack+Developer+🚀;AI+Engineer+👨🏻‍💻;Blockchain+Engineer+₿;Mobile+Developer📱;Robotics+🤖;Founder+of+Wali+Innovations+🎁;)](https://git.io/typing-svg)
 
