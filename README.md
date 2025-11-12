@@ -1,9 +1,9 @@
 <section style="display: grid; grid-template-columns: 1fr 1fr; gap: 0px;">
-<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 200px;"/></a>
-<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 200px;"/></a>
-<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 200px;"/></a>
+<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" style="width: 100%; max-height: 200px;"/></a>
+<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" style="width: 100%; max-height: 200px;"/></a>
+<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" style="width: 100%; max-height: 200px;"/></a>
 
-<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" style="width: 100%; min-height: 200px;"/></a>
+<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" style="width: 100%; max-height: 200px;"/></a>
 </section>
 
 
