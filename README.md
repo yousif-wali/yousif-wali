@@ -1,8 +1,8 @@
-<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
-<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
-<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
+<a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="pinnedRepo" height="100" width="200"/></a>
+<a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="pinnedRepo" height="100" width="200"/></a>
+<a href="https://github.com/yousif-wali/network-sniffer" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="pinnedRepo" height="100" width="200"/></a>
 
-<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" height="100" width="300"/></a>
+<a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="pinnedRepo" height="100" width="200"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
 
