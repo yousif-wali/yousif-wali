@@ -1,44 +1,52 @@
+<h2 align="center" style="color:#66fcf1;font-family:Arial,Helvetica,sans-serif;">
+  🚀 Featured Projects
+</h2>
+
 <section style="
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 20px;
-  justify-items: center;
-  align-items: center;
-  padding: 20px;
-  background: linear-gradient(145deg, #0f2027, #203a43, #2c5364);
-  border-radius: 16px;
-  box-shadow: 0 0 30px rgba(0, 0, 0, 0.3);
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  align-items:center;
+  gap:20px;
+  background:linear-gradient(145deg,#0f2027,#203a43,#2c5364);
+  border-radius:16px;
+  padding:20px;
+  box-shadow:0 0 30px rgba(0,0,0,0.3);
 ">
-  <style>
-    .repo-card {
-      transition: transform 0.3s ease, box-shadow 0.3s ease;
-      border-radius: 12px;
-      overflow: hidden;
-      box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2);
-      border: 1px solid rgba(255, 255, 255, 0.1);
-    }
-    .repo-card:hover {
-      transform: translateY(-5px) scale(1.03);
-      box-shadow: 0 10px 25px rgba(0, 255, 255, 0.25);
-    }
-  </style>
 
-  <a href="https://github.com/yousif-wali/video-transcript" target="_blank" class="repo-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight" alt="video-transcript" style="width: 100%; max-height: 200px;"/>
+  <a href="https://github.com/yousif-wali/video-transcript" target="_blank"
+     style="display:block;width:300px;max-height:200px;border-radius:12px;overflow:hidden;
+            border:1px solid rgba(255,255,255,0.1);box-shadow:0 6px 15px rgba(0,0,0,0.2);
+            transition:all 0.3s ease;transform:translateY(0);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript&theme=tokyonight"
+         alt="video-transcript" style="width:100%;max-height:200px;border-radius:12px;"/>
   </a>
 
-  <a href="https://github.com/yousif-wali/Asset-Ai" target="_blank" class="repo-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight" alt="Asset-Ai" style="width: 100%; max-height: 200px;"/>
+  <a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"
+     style="display:block;width:300px;max-height:200px;border-radius:12px;overflow:hidden;
+            border:1px solid rgba(255,255,255,0.1);box-shadow:0 6px 15px rgba(0,0,0,0.2);
+            transition:all 0.3s ease;transform:translateY(0);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai&theme=tokyonight"
+         alt="Asset-Ai" style="width:100%;max-height:200px;border-radius:12px;"/>
   </a>
 
-  <a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank" class="repo-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight" alt="kurdish-calendar" style="width: 100%; max-height: 200px;"/>
+  <a href="https://github.com/yousif-wali/kurdish-calendar" target="_blank"
+     style="display:block;width:300px;max-height:200px;border-radius:12px;overflow:hidden;
+            border:1px solid rgba(255,255,255,0.1);box-shadow:0 6px 15px rgba(0,0,0,0.2);
+            transition:all 0.3s ease;transform:translateY(0);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=kurdish-calendar&theme=tokyonight"
+         alt="kurdish-calendar" style="width:100%;max-height:200px;border-radius:12px;"/>
   </a>
 
-  <a href="https://github.com/yousif-wali/network-sniffer" target="_blank" class="repo-card">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight" alt="network-sniffer" style="width: 100%; max-height: 200px;"/>
+  <a href="https://github.com/yousif-wali/network-sniffer" target="_blank"
+     style="display:block;width:300px;max-height:200px;border-radius:12px;overflow:hidden;
+            border:1px solid rgba(255,255,255,0.1);box-shadow:0 6px 15px rgba(0,0,0,0.2);
+            transition:all 0.3s ease;transform:translateY(0);">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=network-sniffer&theme=tokyonight"
+         alt="network-sniffer" style="width:100%;max-height:200px;border-radius:12px;"/>
   </a>
 </section>
+
 
 
 
