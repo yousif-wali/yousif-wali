@@ -1,9 +1,10 @@
 <a href="https://github.com/yousif-wali/video-transcript" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=video-transcript" alt="pinnedRepo" height="150"/></a>
 <a href="https://github.com/yousif-wali/Asset-Ai" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=yousif-wali&repo=Asset-Ai" alt="pinnedRepo" height="150"/></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:92FE9D&height=100&section=footer"/>
 
 <h1 align="center">Hi 👋, I'm Yousif Wali</h1>
 <h3 align="center">A passionate [FullStack | A.I | Blockchain | Mobile | Robotics] Developer</h3>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yousif-wali&theme=merko"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousif-wali&label=Profile%20views&color=0e75b6&style=flat" alt="yousif-wali" /> </p>
 
 - 🔭 I’m currently working on [Kurdi Academy](https://kurdiacademy.com)
@@ -48,6 +49,7 @@
 <p><img src="https://github-profile-trophy.vercel.app/?username=yousif-wali&theme=onedark&column=3" alt="yousif-wali"/></p>
      
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yousif-wali&show_icons=true&locale=en&theme=radical" alt="yousif-wali" /></p>
+<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
 
 <p><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=yousif-wali&theme=highcontrast&hide_border=true&stroke=EBAE3B&background=45%2CD08EEB%2C2B0000" alt="yousif-wali" /></p>
 
